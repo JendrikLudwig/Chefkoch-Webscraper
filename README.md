@@ -3,7 +3,7 @@
 
 Dieser Webscraper wurde für ein Projekt im Modul "Fortgeschrittene Programmierung" des Studiengangs "Digital Reality" der HAW Hamburg entwickelt.
 
-Als Codebasis diente das folgende [Repository]("https://github.com/VinzSpring/Chefkoch-API") von [VincSpring]("https://github.com/VinzSpring"). 
+Als Codebasis diente das folgende [Repository](https://github.com/VinzSpring/Chefkoch-API) von [VincSpring](https://github.com/VinzSpring). 
 
 
 ## Anpassungen
